@@ -1,0 +1,39 @@
+Selam, "Sürecin İkinci Adımı" serisinin birinci postu (#1/4), konu ABD. Seri, "Sürecin İlk Adımı" serisinin devamıdır ve dört ülkede ilk adımdan sonra gelen aşamayı anlatır. Kapak ve iç sayfa düzeni ilk seriyle aynı kalır.
+
+🎨 ŞABLON: T3a Süreç / Sınav şablonunu kullan (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler). DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: ABD
+🎯 KİTLE: Diş hekimi
+Genel tasarım kararları size ait.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: ABD'de Diş Hekimliği Sürecinin İkinci Adımı
+ALT BAŞLIK: INBDE Nedir
+(Görsel: sol kenardan dalgalı ABD bayrağı)
+
+SAYFA 2 - INBDE Nedir:
+• INBDE (ulusal diş hekimliği yeterlilik sınavı), DENTPIN ve diploma değerlendirmesinden sonra gelen adımdır.
+• Sınav, ABD'deki tüm eyalet lisans kurullarınca kabul edilir.
+• Klinik bilgi, vaka senaryoları üzerinden bütüncül biçimde ölçülür.
+• Sonuç puanla değil, geçti veya kaldı olarak bildirilir.
+Sınavın yapısını baştan bildiğinizde hazırlığınızı vaka çözme pratiği üzerine kurarsınız.
+Kaynak: jcnde.ada.org
+
+SAYFA 3 - Sınavın Yapısı:
+• Sınav iki gün sürer: ilk gün 8 saat 15 dakika, ikinci gün 4 saat 15 dakikadır.
+• Toplam yaklaşık 500 çoktan seçmeli sorudan oluşur.
+• Sınav yıl boyunca açıktır ve tarihi aday seçer.
+• Sınav yalnız ABD ve Kanada'daki Prometric merkezlerinde yapılır, Türkiye'den girilemez.
+Tarihi kendiniz seçtiğiniz için sınavı ABD seyahat planınıza göre yerleştirebilirsiniz.
+Kaynak: jcnde.ada.org
+
+SAYFA 4 - TOEFL ve Sonraki Karar:
+• TOEFL, INBDE ile aynı aşamada tamamlanır ve sonuçlar iki yıl geçerlidir.
+• Tek bir ulusal İngilizce eşiği bulunmaz, alt sınırı başvurulan fakülte belirler.
+• TOEFL iBT Ocak 2026'dan bu yana 1-6 ölçeğiyle puanlanır, fakülteler 4,0 ile 5,0 arası ister.
+• İki sınav tamamlandığında üç yoldan biri seçilir: Advanced Standing, uzmanlık asistanlığı veya AEGD/GPR.
+İki sınavı aynı dönemde tamamladığınızda program başvurularına eksiksiz bir dosyayla girersiniz.
+Kaynak: ets.org, CODA program sayfaları
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

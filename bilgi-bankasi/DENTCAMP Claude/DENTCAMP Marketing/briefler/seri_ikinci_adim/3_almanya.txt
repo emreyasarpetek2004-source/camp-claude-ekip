@@ -1,0 +1,39 @@
+Selam, "Sürecin İkinci Adımı" serisinin üçüncü postu (#3/4), konu Almanya. Seri, "Sürecin İlk Adımı" serisinin devamıdır ve dört ülkede ilk adımdan sonra gelen aşamayı anlatır. Kapak ve iç sayfa düzeni ilk seriyle aynı kalır.
+
+🎨 ŞABLON: T3a Süreç / Sınav şablonunu kullan (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler). DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: ALMANYA
+🎯 KİTLE: Diş hekimi
+Genel tasarım kararları size ait.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: Almanya'da Diş Hekimliği Sürecinin İkinci Adımı
+ALT BAŞLIK: Fachsprachenprüfung Nedir
+(Görsel: sol kenardan dalgalı Almanya bayrağı)
+
+SAYFA 2 - Fachsprachenprüfung (Mesleki Dil Sınavı) Nedir:
+• Denklik başvurusundan sonra aday, eyaletin diş hekimleri odasının yaptığı mesleki dil sınavına yönlendirilir.
+• Sınava girmek için ALTE sertifikalı bir kurumdan alınmış B2 belgesi istenir.
+• Goethe, telc, ÖSD, TestDaF 4 ve DSH belgeleri kabul edilir.
+• B2 belgesinin kabul edilen yaşı eyalete göre değişir, Baden-Württemberg 5 yıl, Saksonya 3 yıl arar.
+B2 belgenizin yaşını seçtiğiniz eyaletin kuralına göre kontrol ettiğinizde başvurunuz belge yenileme için beklemez.
+Kaynak: Landeszahnärztekammer föyleri
+
+SAYFA 3 - Sınavın Yapısı:
+• Sınav üç bölümden oluşur: hasta görüşmesi, vakanın yazılı belgelenmesi ve vakanın bir diş hekimine aktarılması.
+• Her bölüm yaklaşık 20 dakika sürer ve sınav bireysel yapılır.
+• Ölçüt, mesleki bağlamda C1 düzeyinde Almancadır.
+• Yalnız dil değerlendirilir, klinik bilgi sınav kapsamı dışında kalır.
+Sınavın ölçtüğü üç durumu önceden çalıştığınızda hazırlığınızı gerçek klinik iletişime göre kurarsınız.
+Kaynak: Landeszahnärztekammer föyleri
+
+SAYFA 4 - Ücret, Tekrar ve Geçerlilik:
+• Sınav ücreti eyalete göre 450 ile 570 € arasındadır.
+• Sınav bütün olarak tekrarlanır ve tekrar sayısında sınır yoktur.
+• Geçilen sınav kural olarak üç yıl geçerlidir ve diğer eyaletlerde de kabul edilir.
+• Geçilmiş Fachsprachenprüfung, Berufserlaubnis (geçici çalışma izni) başvurusunun da şartıdır.
+Sınavı erken geçtiğinizde Kenntnisprüfung sürecinde geçici izinle klinikte çalışmaya başlayabilirsiniz.
+Kaynak: Landeszahnärztekammer föyleri, ZHG § 13
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

@@ -1,0 +1,58 @@
+🎨 ŞABLON: T3c Veri (bu tipi kur) · DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: Dört ülke (Almanya, Avustralya, ABD, İngiltere)
+🎯 KİTLE: Diplomalı diş hekimi
+
+Selam,
+
+Dört ülkenin dil şartını tek destede toplayan bir carousel. 7 slayt: kapak, karşılaştırma tablosu, dört ülke sayfası ve CTA. Sayfa 2 bir tablodur: dört satır (ülke), üç sütun (ülke / istenen sınav ve puan / şartın istendiği aşama); ülke satırları bayrakla ayrılsın, ülke rengi kullanılmasın. Ülke sayfalarında sol kenardan o ülkenin dalgalı bayrağı girsin. Puanlar öne çıktığı için veri destesi kurgulandı, T3c ilk kez kurulacak. Genel tasarımı size bırakıyorum.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: Dört Ülkede Dil Yeterliliği
+ALT BAŞLIK: Hangi Sınav, Hangi Puan
+
+SAYFA 2 - DÖRT ÜLKE, DÖRT AYRI DİL ŞARTI:
+• Almanya: B2 belgesi ve Fachsprachenprüfung · Approbation dosyasında, Kenntnisprüfung öncesinde
+• Avustralya: IELTS Academic 7,0 ya da OET, PTE, TOEFL karşılıkları · AHPRA kaydı aşamasında
+• ABD: Merkezî eşik bulunmaz, TOEFL iBT alt sınırını fakülte belirler · Fakülte başvurusunda
+• İngiltere: IELTS Academic genel 7,0, her bölümden 6,5 · ORE Part 1 öncesinde
+Hedef ülkenizi seçtiğinizde hangi sınava, hangi puana ve hangi aşamada hazırlanacağınız da belirlenir.
+
+SAYFA 3 - ALMANYA:
+• Genel dil için ALTE sertifikalı bir kurumdan B2 belgesi istenir: Goethe-Zertifikat, telc Deutsch, ÖSD, TestDaF 4 ve DSH kabul edilir.
+• Fachsprachenprüfung (mesleki dil sınavı) eyaletin diş hekimleri odasınca yürütülür: hasta görüşmesi, yazılı belgeleme ve vaka aktarımı, her bölüm 20 dakika.
+• Ölçüt mesleki bağlamda C1 düzeyidir; sınavda yalnız dil değerlendirilir, klinik bilgi kapsam dışında kalır.
+• Ücret eyalete göre 450 € ile 570 € arasında değişir, sınav bütün olarak tekrarlanır ve tekrar sayısında sınır bulunmaz.
+• ALMANGO ile A1'den B2'ye Almanca ve FSP hazırlığı yürütülür, ALMANGO aynı zamanda ÖSD sınav merkezidir.
+Dil hattını dosya hazırlığıyla birlikte başlattığınızda Kenntnisprüfung takviminiz beklemeye girmez.
+Kaynak: LAGeSo Berlin, Regierungspräsidium Stuttgart, Regierung von Oberbayern
+
+SAYFA 4 - AVUSTRALYA:
+• Kabul edilen sınavlar: IELTS Academic, OET, PTE Academic, TOEFL iBT ve Cambridge C1 ile C2.
+• IELTS Academic'te genel 7,0 istenir; dinleme, okuma ve konuşmada 7,0, yazmada 6,5 aranır.
+• OET (sağlık çalışanlarına özel İngilizce sınavı) için dinleme 350, okuma 360, yazma 350, konuşma 360; PTE'de genel 63, TOEFL iBT'de genel 91 istenir.
+• Şart ADC aşamalarında istenmez, çalışma yetkisi veren AHPRA kaydında aranır; sonuçlar iki yıl geçerlidir.
+• Bu eşikler 23 Nisan 2026 ve sonrasında girilen sınavlar için geçerlidir.
+Sınav takviminizi ADC aşamalarıyla birlikte kurduğunuzda sonucunuz kayıt başvurusunda geçerli kalır.
+Kaynak: AHPRA, ADC
+
+SAYFA 5 - ABD:
+• ABD genelinde tüm fakülteleri bağlayan tek bir İngilizce puanı bulunmaz, alt sınırı fakülte belirler.
+• Advanced Standing başvurularında en sık TOEFL iBT istenir; alt sınırlar eski 0-120 ölçeğinde 80 ile 100 arasında değişir.
+• TOEFL iBT 21 Ocak 2026'dan itibaren 1-6 ölçeğiyle raporlanır, aynı fakülteler yeni ölçekte 4,0 ile 5,0 arası ister.
+• IELTS Academic bazı programlarda kabul edilir, bazı fakülteler yalnız TOEFL alır; sonuçlar iki yıl geçerlidir.
+• Lisansı eyalet dental kurulu verir ve birçok kurul ayrıca İngilizce yeterliliği arar.
+Hedef fakülteyi ve eyaleti belirlediğinizde hangi puana hazırlanacağınızı da netleştirirsiniz.
+Kaynak: ETS, ADEA CAAPID, ADA
+
+SAYFA 6 - İNGİLTERE:
+• GDC (İngiltere diş hekimliği sicil kurumu) kılavuzunda tek bir sınav adı geçer: IELTS'in Academic sürümü.
+• Genel puan 7,0 istenir, dinleme, okuma, yazma ve konuşma bölümlerinin her birinden en az 6,5 aranır.
+• Sonuç, orijinal ve imzalı tek bir Test Report Form olarak sunulur ve başvuru tarihinde iki yıldan eski olmaz.
+• Şart ORE Part 1'den önce aranır; LDS yolunda RCS England kendi düzenlemesini uygular ve TOEFL'ü de kabul eder.
+• MEDCAMP (@medcampenglish) IELTS, OET ve TOEFL hazırlığını üç ülke için birlikte yürütür.
+Belgenizin başvuru anında güncel kalacağı bir takvim kurduğunuzda Part 1 başvurunuz beklemez.
+Kaynak: GDC, RCS England
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

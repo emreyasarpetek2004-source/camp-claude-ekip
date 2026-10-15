@@ -1,0 +1,81 @@
+🎨 ŞABLON: T3a · Süreç / Sınav (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler)
+🌍 ÜLKE: ALMANYA
+🎯 KİTLE: Diş hekimi
+
+Selam,
+
+Almanya'da diş hekimliği sürecinin nasıl işlediğini anlatan post, şematik kurgulandı. Aşama adları resmî Almanca terimleriyle yazıldı, Türkçe karşılıkları parantez içinde verildi. Deste 6 slayt: kapak + 4 içerik + CTA. Genel tasarımı size bırakıyorum.
+
+SAYFA 1: KAPAK
+
+Başlık: Almanya'da Diş Hekimliği Süreci
+Alt satır: Approbation'a Giden Yol
+
+SAYFA 2: SÜREÇ HARİTASI VE DENKLİK İNCELEMESİ
+
+Üstte dikey zincir, beş halka:
+Sprachzertifikat B2 > Antrag auf Approbation > Gleichwertigkeitsprüfung > Fachsprachenprüfung ve Kenntnisprüfung > Approbation
+
+Zincirin altında tek kart, Gleichwertigkeitsprüfung (eğitim denkliği incelemesi):
+. Başvuru, çalışılacak eyaletin Approbation makamına yapılır
+. Eğitiminiz Alman eğitimiyle karşılaştırılır ve esaslı fark aranır
+. Esaslı fark yoksa doğrudan Approbation verilir
+. Esaslı farklar mesleki tecrübeyle veya tanınmış sürekli eğitimle kapatılabilir
+
+Alt şerit: Belgeler tamamlandıktan sonra makam en geç dört ay içinde kararını bildirir.
+Kaynak: ZHG § 2, anerkennung-in-deutschland.de
+
+SAYFA 3: FACHSPRACHENPRÜFUNG (MESLEKİ DİL SINAVI)
+
+Tek kart, sınavın yapısı:
+. Sınavı eyaletin diş hekimleri odası yapar, adayı makam havale eder
+. Üç bölümden oluşur: hasta görüşmesi, yazılı vaka dokümantasyonu, hekimler arası vaka aktarımı
+. Ölçüt B2 belgesi üzerine kurulu, mesleki bağlamda C1 düzeyi dildir
+. Yalnız dil değerlendirilir, mesleki bilgi ölçülmez
+
+Altta çipler:
+Ön şart B2 sertifikası / Üç bölüm, 60 ile 90 dakika / Ücret 450 ile 560 € / Deneme sayısı sınırsız
+
+Alt şerit: Bazı eyaletler Almanca eğitim almış diş hekimleri için muafiyet tanır, karar vaka bazında verilir.
+Kaynak: Landeszahnärztekammer föyleri
+
+SAYFA 4: KENNTNISPRÜFUNG (BİLGİ SINAVI)
+
+Üç kutu, sırayla:
+
+YAZILI BÖLÜM
+. Model, röntgen ve parodontal bulgu üzerinden 45 dakikada en az iki tedavi planı yazılır
+
+SÖZLÜ BÖLÜM
+. Kişi başına en az 60, en çok 90 dakika süren sınav görüşmesi yapılır
+
+PRATİK BÖLÜM
+. Standart eğitim durumlarında, simüle muayenehane koşullarında protetik, restoratif ve cerrahi uygulamalar yapılır
+
+Altta çipler:
+Sınav Alman devlet bitirme sınavının içeriğini kapsar / En az yılda iki kez açılır / Ücret eyalete göre 1.300 ile 2.925 € / Bölüm başına üç hak
+
+Alt şerit: Bölümler sırayla verilir, bir bölüm geçilmeden sonrakine girilemez ve bir bölümdeki üç hak tükenirse Approbation başvurusu reddedilir.
+Kaynak: ZApprO §§ 104-118
+
+SAYFA 5: APPROBATION VE BERUFSERLAUBNIS
+
+Üstte iki kart:
+
+APPROBATION
+. Alman mezunuyla aynı haklar verilir, süresiz ve kısıtsızdır
+. Harç eyalete göre 100 ile 430 € arasındadır
+
+BERUFSERLAUBNIS (GEÇİCİ ÇALIŞMA İZNİ)
+. Approbation koşulları tamamlanmadan verilen geri alınabilir izindir
+. Toplam çalışma süresi azami iki yıldır
+
+Alt şerit: Berufserlaubnis belirli bir iş yeriyle sınırlandırılabilir ve Approbation sahibi bir diş hekiminin gözetiminde çalışma şartına bağlanabilir.
+Kaynak: ZHG § 13
+
+SAYFA 6: CTA
+
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+
+dentcamp.com.tr
++90 552 000 78 38

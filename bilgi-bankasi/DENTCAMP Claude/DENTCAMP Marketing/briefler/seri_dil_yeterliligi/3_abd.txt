@@ -1,0 +1,43 @@
+🎨 ŞABLON: T3c · Veri (bu tipi kur), beyaz/mint kart zemin, DENTCAMP paleti
+🌍 ÜLKE: ABD
+🎯 KİTLE: Diş hekimi
+
+Selam,
+
+"Dört Ülke, Dört Dil Şartı" serisinin üçüncü postu. Diğer üç ülkede tek bir eşik yazılabildi, ABD'de yazılamaz ve postun mesajı da budur. Puanlar aralık verildiği için veri şablonu seçildi. Sol kenardan dalgalı ABD bayrağı girsin. 5 slayt: kapak + 3 içerik + CTA. Genel tasarımı size bırakıyorum.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: ABD'de Dil Yeterliliği
+ALT BAŞLIK: Puanı Program Belirler
+
+SAYFA 2 - TEK BİR ÜLKE EŞİĞİ BULUNMAZ:
+• ABD genelinde tüm fakülteleri bağlayan tek bir İngilizce puanı bulunmaz.
+• CAAPID (uluslararası diş hekimleri için ortak başvuru sistemi) ortak alt sınır ilan etmez, eşiği fakülte belirler.
+• Lisansı eyalet dental kurulu verir, birçok kurul ayrıca İngilizce yeterliliği arar.
+• Sınav sonuçları iki yıl geçerli sayılır.
+Dil planınız, hedef fakülte ve eyalet belirlendikten sonra netleşir.
+Kaynak: ADEA CAAPID, ADA
+
+SAYFA 3 - TOEFL PUANI FAKÜLTEDEN FAKÜLTEYE DEĞİŞİR:
+• Advanced Standing başvurularında en sık TOEFL iBT istenir.
+• İlan edilen alt sınırlar eski 0-120 ölçeğinde 80 ile 100 arasında değişir.
+• TOEFL iBT 21 Ocak 2026'dan itibaren 1-6 ölçeğiyle raporlanır, aynı fakülteler yeni ölçekte 4,0 ile 5,0 arası ister.
+• Bazı programlar bölüm alt sınırı da uygular, konuşma bölümü ayrıca değerlendirilir.
+• Raporlarda Ocak 2028'e kadar iki ölçek birlikte gösterilir.
+Her fakültenin eşiğini ayrı ayrı okumanız gerekir.
+Kaynak: ETS, ADEA CAAPID program sayfaları
+
+SAYFA 4 - DİL YALNIZ PUANLA ÖLÇÜLMEZ:
+• IELTS Academic bazı programlarda kabul edilir, bazıları yalnız TOEFL alır.
+• ABD'de tamamlanmış bir derece kimi fakültede muafiyet sağlar, kimi fakülte hiçbir istisna tanımaz.
+• INBDE dil sınavı sayılmaz, tamamen İngilizce yürür ve salona sözlük ile çeviri aracı alınmaz.
+• Kabul aşamasında mülakat ve manken üzerinde uygulama değerlendirmesi yapılır.
+• Klinikte anamnez, onam ve tedavi anlatımı İngilizce yürütülür.
+TOEFL hazırlığını ve mesleki İngilizceyi MEDCAMP ile birlikte planlarız.
+Kaynak: JCNDE, ADEA CAAPID program sayfaları
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38
+
+Kaynak: ets.org · adea.org · ada.org · jcnde.ada.org · CODA fakülte sayfaları

@@ -1,0 +1,14 @@
+🩺 NHS'te güvenli reçete üç başlıkta toplanır: referans, format, kontrol.
+
+📌 Referans — BNF. Doz, endikasyon ve etkileşim buradan doğrulanır. Ücretsiz uygulama telefonda durur. Çocuk hasta için BNF for Children ayrıdır.
+📌 Format — jenerik ad, büyük harf, okunaklı yazı. Doz, yol, sıklık, tarih ve imza eksiksiz. Allerji kutusunda NKDA veya bilinen allerji.
+📌 Kontrol — "U" yerine "units", 0.5 mg gibi başa sıfırlı ondalık, antibiyotikte endikasyon ve süre.
+
+Emin olamadığınız anda ward pharmacist'e sorulur. Bu NHS'te zayıflık değil, iyi pratiktir.
+
+İngiltere'de doktor olarak göreve başlayana kadar her adımda yanınızdayız 💪
+🌐 ukcamp.com.tr   📲 +90 552 253 0 337   📩 info@ukcamp.com.tr
+
+Kaynak: GMC Good practice in prescribing; BNF.
+
+#UKCAMP #İngilteredeDoktorluk #NHS #PLAB #IMG #YurtdışındaDoktorluk #İngiltere #DoctorLife

@@ -1,0 +1,39 @@
+Selam, "Sürecin İkinci Adımı" serisinin dördüncü postu (#4/4), konu Avustralya. Seri, "Sürecin İlk Adımı" serisinin devamıdır ve dört ülkede ilk adımdan sonra gelen aşamayı anlatır. Kapak ve iç sayfa düzeni ilk seriyle aynı kalır.
+
+🎨 ŞABLON: T3a Süreç / Sınav şablonunu kullan (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler). DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: AVUSTRALYA
+🎯 KİTLE: Diş hekimi
+Genel tasarım kararları size ait.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: Avustralya'da Diş Hekimliği Sürecinin İkinci Adımı
+ALT BAŞLIK: ADC Yazılı Sınavı Nedir
+(Görsel: sol kenardan dalgalı Avustralya bayrağı)
+
+SAYFA 2 - Written Examination (Yazılı Sınav) Nedir:
+• Initial assessment olumlu sonuçlandığında ADC yazılı sınavına girme hakkı doğar.
+• Sınav bilgisayar tabanlıdır ve senaryo temelli çoktan seçmeli sorulardan oluşur.
+• Yılda iki kez açılır ve Pearson VUE merkezlerinde yapılır.
+• Türkiye'de İstanbul ve Ankara merkezlerinden girilebilir.
+Sınava Türkiye'den girebildiğiniz için bu aşamayı çalışma düzeninizi bozmadan tamamlayabilirsiniz.
+Kaynak: adc.org.au
+
+SAYFA 3 - Sınavın Yapısı:
+• Sınav iki ardışık gün sürer ve toplam 280 sorudan oluşur.
+• Dört bölümün her biri 70 soru ve iki saattir.
+• Dört bölüm ayrı ayrı geçilir.
+• 280 sorunun 240'ı puanlanır, kalan 40 soru kalibrasyon amaçlıdır.
+Her bölümün ayrı geçildiğini bildiğinizde hazırlığınızı dört bölüme dengeli dağıtırsınız.
+Kaynak: adc.org.au
+
+SAYFA 4 - Ücret, Sonuç ve Deneme:
+• Sınav ücreti 2.122 AUD'dir.
+• Sonuçlar yaklaşık altı haftada açıklanır.
+• Yazılı sınav için deneme sayısı sınırı bulunmaz.
+• Yazılı sınav geçildikten sonra Melbourne'daki pratik sınava geçilir.
+Yazılı sınavı erken geçtiğinizde initial assessment'ın yedi yıllık süresinin büyük kısmı pratik sınav için elinizde kalır.
+Kaynak: adc.org.au
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

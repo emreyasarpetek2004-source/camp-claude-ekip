@@ -1,0 +1,40 @@
+Selam, serinin son halkası. Seri T3a ile yürüdüğü için burada format zincirini kırarız. Genel tasarımı size bırakıyorum.
+
+ŞABLON: T3c Veri (öneri), bu tipi kur. Petrol yeşili #005b52, turkuaz #00d9bd, mint #d6f2ed
+ÜLKE: İNGİLTERE (sol kenardan dalgalı bayrak, ülke rengi kullanılmaz)
+KİTLE: Diplomalı diş hekimi · SLAYT: 5 (kapak + 3 içerik + CTA)
+
+SAYFA 1 - KAPAK:
+BAŞLIK: İngiltere'de Dil Yeterliliği
+ALT BAŞLIK: Hangi Sınav, Hangi Puan
+
+SAYFA 2 - HANGİ SINAV, HANGİ PUAN:
+• GDC (İngiltere diş hekimliği sicil kurumu) kılavuzunda tek bir sınav adı geçer: IELTS'in Academic sürümü.
+• Genel puan olarak 7,0 istenir.
+• Dinleme, okuma, yazma ve konuşma bölümlerinin her birinden en az 6,5 aranır.
+• IELTS One Skill Retake ve IELTS Online sonuçları da kabul edilir, eşikler aynı kalır.
+Bir bölüm eşiğin altında kalırsa genel ortalama tek başına yetmez.
+Kaynak: GDC (gdc-uk.org)
+(Görsel: dört bölüm eşiği ve genel puan tek bakışta okunsun)
+
+SAYFA 3 - BELGE VE GEÇERLİLİK:
+• Sonuç, tek bir orijinal, kaşeli ve imzalı Test Report Form olarak sunulur.
+• Belgenin başvuru tarihinde iki yıldan eski olmaması istenir.
+• İki yılı aşan sonuçta GDC ek kanıt arar: İngilizce lisansüstü eğitim ya da İngilizce konuşulan ülkede hekimlik.
+• Diploması baştan sona İngilizce okutulup sınanmış diş hekiminden sınav istenmeyebilir.
+• Bu muafiyette işveren imzalı referans formu istenir, mesleki iletişimin en az yüzde 75'i İngilizce yürütülmüş olmalıdır.
+Sınav takvimi, belgenin başvuru anında güncel kalacağı biçimde kurulur.
+Kaynak: GDC (gdc-uk.org)
+
+SAYFA 4 - SÜREÇTE NEREDE DURUR:
+• Dil kanıtı GDC dosyasının içinde sunulur.
+• ORE yolunda şart Part 1'den önce aranır, GDC tatmin olmadan sınava alınmazsınız.
+• LDS yolunda RCS England kendi düzenlemesini uygular ve Academic IELTS'in yanında TOEFL'ü de kabul eder.
+• GDC kaydı tamamlansa bile NHS'te çalışmak için Performers List başvurusunda İngilizce kanıtı ayrıca istenir.
+• MEDCAMP (@medcampenglish) IELTS Academic hazırlığını yürütür.
+Sınavı geçmek ve sicile kaydolmak iş garantisi vermez.
+Kaynak: GDC, RCS England, NHS England PCSE
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

@@ -1,0 +1,78 @@
+🎨 ŞABLON: T3a · Süreç / Sınav (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler)
+🌍 ÜLKE: AVUSTRALYA
+🎯 KİTLE: Diş hekimi
+
+Selam,
+
+Avustralya'da diş hekimliği sürecinin nasıl işlediğini anlatan post, şematik kurgulandı. Aşama adları ADC'nin resmî terimleriyle yazıldı, Türkçe karşılıkları parantez içinde verildi. Deste 6 slayt: kapak + 4 içerik + CTA. Genel tasarımı size bırakıyorum.
+
+SAYFA 1: KAPAK
+
+Başlık: Avustralya'da Diş Hekimliği Süreci
+Alt satır: ADC Değerlendirmesinden Sicil Kaydına
+
+SAYFA 2: SÜREÇ HARİTASI VE INITIAL ASSESSMENT
+
+Üstte yatay zincir, dört halka:
+Initial assessment > Written examination > Practical examination > Ahpra kaydı
+
+Zincirin altında tek kart, Initial assessment (belge değerlendirmesi):
+. Diploma, akademik transkript, pasaport ve vesikalık sunulur
+. İngilizce olmayan belgeler için resmî çeviri istenir
+. Sonuçlanma süresi yaklaşık sekiz haftadır
+. Başvuru ücreti 647 AUD, olumlu sonuç yedi yıl geçerlidir
+
+Alt şerit: Yedi yıl dolmadan yenilenmezse süreç baştan başlar ve alınmış sınav sonuçları da geçersiz olur.
+Kaynak: adc.org.au
+
+SAYFA 3: WRITTEN EXAMINATION (YAZILI SINAV)
+
+Tek kart, sınavın yapısı:
+. Bilgisayar tabanlı, senaryo temelli çoktan seçmeli sınavdır
+. İki ardışık gün sürer, dört bölümden ve toplam 280 sorudan oluşur
+. Her bölüm 70 soru ve iki saattir, dört bölümün her biri ayrı ayrı geçilir
+. 280 sorunun 240'ı puanlanır, kalan 40 soru kalibrasyon amaçlıdır
+
+Altta çipler:
+Yılda iki kez / Pearson VUE merkezleri / İstanbul ve Ankara / Sonuç yaklaşık 6 hafta / Ücret 2.122 AUD
+
+Alt şerit: Yazılı sınav için deneme sayısı sınırı bulunmaz.
+Kaynak: adc.org.au
+
+SAYFA 4: PRACTICAL EXAMINATION (PRATİK SINAV)
+
+İki kart yan yana:
+
+TECHNICAL SKILLS DAY
+. Manikin başa monte simülasyon ünitesinde çalışılır
+. Standart tipodont modeller üzerinde altı görev verilir
+
+CLINICAL SKILLS DAY
+. On istasyonlu OSCE biçiminde yürütülür
+. Simüle hastadan anamnez, tedavi planı ve tıbbi acil yönetimi ölçülür
+
+Altta çipler:
+Yalnız Melbourne / Ücret 4.775 AUD / Sonuç yaklaşık 6 hafta
+
+Alt şerit: İki günün ikisi de tek denemede geçilir, bir günün performansı diğerini telafi etmez ve ardışık iki sınav dönemine girilemez.
+Kaynak: adc.org.au
+
+SAYFA 5: İNGİLİZCE YETERLİLİĞİ VE KAYIT
+
+Üstte üç madde:
+. Üç aşama tamamlandığında ADC sertifikası verilir
+. Genel kayıt, Dental Board of Australia adına Ahpra üzerinden yapılır
+. Kayıt çalışma yetkisi verir, vize ve göç süreci ayrıca yürütülür
+
+Altta çipler, kabul edilen dil sınavları:
+IELTS Academic 7 (writing 6,5) / OET B (writing C+) / PTE Academic 66 (writing 56) / TOEFL iBT 94
+
+Alt şerit: İngilizce yeterliliği ADC aşaması değil, Ahpra'nın kayıt standardıdır ve sonuçlar başvuru tarihinden geriye iki yıl geçerlidir.
+Kaynak: adc.org.au, ahpra.gov.au
+
+SAYFA 6: CTA
+
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+
+dentcamp.com.tr
++90 552 000 78 38

@@ -1,0 +1,19 @@
+#!/bin/bash
+# CAMP GROUP — Instagram yayin sarmalayicisi (Make webhook)
+# Kullanim: camp-ig-publish <auscamp|ukcamp|dentcamp> [make_publish.py argumanlari...]
+# Ornek:    camp-ig-publish auscamp --ig-type carousel --caption cap.txt --media URL1 URL2 --live --yes
+# Neden var: her markanin kendi klasoru ve .env (MAKE_WEBHOOK_URL) dosyasi var;
+# sarmalayici dogru klasore gecip make_publish.py'yi calistirir. Sabit bir yol oldugu
+# icin izin kurali (~/.claude/settings.json > permissions.allow) buna baglanabiliyor.
+set -u
+BRAND="${1:-}"
+[ -n "$BRAND" ] || { echo "HATA: marka gerekli (auscamp|ukcamp|dentcamp)"; exit 1; }
+shift
+case "$BRAND" in
+  auscamp)  DIR="$HOME/Documents/AUSCAMP Claude/AUSCAMP Marketing/Instagram Paylasim Otomasyonu" ;;
+  ukcamp)   DIR="$HOME/Documents/UKCAMP Claude/UKCAMP Marketing/Instagram Paylasim Otomasyonu" ;;
+  dentcamp) DIR="$HOME/Documents/DENTCAMP Claude/DENTCAMP Marketing/Instagram Paylasim Otomasyonu" ;;
+  *) echo "HATA: bilinmeyen marka: $BRAND (auscamp|ukcamp|dentcamp)"; exit 1 ;;
+esac
+cd "$DIR" || { echo "HATA: klasor bulunamadi: $DIR"; exit 1; }
+exec python3 make_publish.py --brand "$BRAND" "$@"

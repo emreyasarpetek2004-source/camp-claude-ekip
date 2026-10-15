@@ -1,0 +1,44 @@
+Selam, "Dört Ülke, Dört Dil Şartı" serisinin ikinci postu (#2/4), konu Avustralya. Puan tablosu ağır bastığı için veri destesi kurgulandı.
+
+🎨 ŞABLON: T3c Veri (öneri), bu tipi kur. DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: AVUSTRALYA
+🎯 KİTLE: Diş hekimi
+Genel tasarım kararları size ait.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: Avustralya'da Dil Yeterliliği
+ALT BAŞLIK: Hangi Sınav, Hangi Puan
+(Görsel: sol kenardan dalgalı Avustralya bayrağı)
+
+SAYFA 2 - Dil Şartı Süreçte Nerede Durur:
+• ADC değerlendirme aşamalarının hiçbirinde İngilizce sınav sonucu istenmez.
+• Yazılı ve pratik sınavlar İngilizce yürütülür, pratik sınavda iletişim beceriniz de değerlendirilir.
+• Dil şartı, çalışma yetkisi veren AHPRA kaydı aşamasında aranır.
+• Türkiye tanınan ülkeler listesinde yer almaz, Türkiye mezunu diş hekimi sınav yolunu kullanır.
+Sınav sonucunuz olmadan AHPRA kaydınız tamamlanmaz.
+Kaynak: ADC, AHPRA
+
+SAYFA 3 - Kabul Edilen Beş Sınav:
+• IELTS Academic: genel 7,0 ile dinleme, okuma ve konuşmada 7,0, yazmada 6,5
+• OET (sağlık çalışanlarına özel İngilizce sınavı): dinleme 350, okuma 360, yazma 350, konuşma 360
+• PTE Academic: genel 63 ile dinleme 58, okuma 59, yazma 60, konuşma 76
+• TOEFL iBT: genel 91 ile dinleme 22, okuma 22, yazma 23, konuşma 24
+• Cambridge C1 Advanced ve C2 Proficiency de kabul edilir.
+Bu eşikler 23 Nisan 2026 ve sonrasında girilen sınavlar için geçerli sayılır.
+Kaynak: AHPRA
+
+SAYFA 4 - Geçerlilik ve İki Oturum Kuralı:
+• Sonuçlar, başvuru tarihinden geriye iki yıl içinde alınmış olmalıdır.
+• Tanınan bir ülkede İngilizce ile kesintisiz çalışılan dönemler bu süreyi koşullu uzatır.
+• En fazla iki oturum birleştirilir, iki sınav tarihi arasında 12 aydan fazla süre bulunmaz.
+• Farklı sağlayıcıların sonuçları birleştirilmez, her oturumda dört bölüme de girilir.
+• Birleştirmede bölüm bazlı alt sınırlar aranır, IELTS'te hiçbir bölüm 6,5'in altına düşmez.
+• MEDCAMP (@medcampenglish) OET ve IELTS hazırlığını yürütür.
+Sınav takviminizi ADC aşamalarıyla kurduğunuzda sonucunuz kayıt başvurusunda geçerli kalır.
+Kaynak: AHPRA
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38
+
+Kaynak: ahpra.gov.au, adc.org.au

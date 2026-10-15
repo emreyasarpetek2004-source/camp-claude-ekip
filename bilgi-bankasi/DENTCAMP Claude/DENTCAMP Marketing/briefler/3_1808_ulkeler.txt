@@ -1,0 +1,47 @@
+🎨 ŞABLON: T3b — 4 Ülke Karşılaştırma (beyaz/mint zemin, dört bayrak)
+🌍 ÜLKE: 4 ÜLKE
+🎯 KİTLE: İkisi (diş hekimi + diş hekimliği öğrencisi)
+
+Selam,
+
+Dört ülkeyi yan yana koyan karşılaştırma postu. T3b düzeni gereği kapak dışında ülke başına bir sayfa vardır; her sayfada aynı ölçütler okunur (yol / sınav / süre-maliyet / risk). Genel tasarımı size bırakıyorum.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: Dört Ülkede Diş Hekimliği
+ALT BAŞLIK: Aynı Meslek, Dört Farklı Yol
+
+SAYFA 2 - ALMANYA:
+• Yol: Almanca B2 → FSP (mesleki Almanca) → eyalete denklik başvurusu → Kenntnisprüfung → Approbation.
+• Kenntnisprüfung yazılı, sözlü ve pratik olmak üzere üç bölümden oluşur; pratik bölüm fantom baş üzerinde yapılır.
+• Uçtan uca süre 12–24 aydır; Kenntnisprüfung ücreti yaklaşık 1.300 € olup sınav yılda iki kez açılır.
+• Risk: Denklik ülke geneli değil, eyalet bazında yürür.
+Kaynak: DENTCAMP olgu bankası
+(Görsel: Almanya bayrağı sol kenarda)
+
+SAYFA 3 - AVUSTRALYA:
+• Yol: belge değerlendirmesi → yazılı sınav → pratik sınav → İngilizce → AHPRA kaydı.
+• Yazılı sınav iki gün sürer ve 280 soru içerir; sonuçlar yaklaşık altı haftada açıklanır.
+• Belge değerlendirmesi yedi yıl geçerlidir; gerçekleşen toplam maliyet 12–18 bin AUD aralığındadır.
+• Risk: Pratik sınav dünyada tek merkezde, Melbourne'da yapılır.
+Kaynak: DENTCAMP olgu bankası
+(Görsel: Avustralya bayrağı sol kenarda)
+
+SAYFA 4 - İNGİLTERE:
+• Yol: İngilizce yeterliliği → ORE veya LDS → belge dosyası → sınav bölümleri → GDC kaydı.
+• Dil şartı IELTS 7,0 ve her bölümde 6,5; ya da OET'te dört bölümde de B.
+• ORE Part 2 ücreti £6.967'dir (KDV dâhil); başvuru için 1.600 saat klinik deneyim istenir.
+• Risk: Her sınav bölümü için dört deneme hakkı ve ilk Part 1 denemesinden itibaren beş yıl sınırı vardır.
+Kaynak: DENTCAMP olgu bankası
+(Görsel: İngiltere bayrağı sol kenarda)
+
+SAYFA 5 - ABD:
+• Yol: DENTPIN → ders bazlı diploma değerlendirmesi → TOEFL → INBDE → üç lisans yolundan biri.
+• Advanced Standing 2–3 yıl, uzmanlık asistanlığı 2–4 yıl, AEGD/GPR 1–2 yıl sürer.
+• Elli eyaletin lisansı ayrıdır; AEGD/GPR yolunu yaklaşık 16 eyalet tanır.
+• Risk: INBDE yalnızca ABD ve Kanada merkezlerinde yapılır, Türkiye'den girilemez.
+Kaynak: DENTCAMP olgu bankası
+(Görsel: ABD bayrağı sol kenarda)
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/auscamp-logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#16813E" />
+
+    <!--
+      Reklam çapası düzeltmesi. Reklam linki "#bilgi" ile bitince tarayıcı sayfayı
+      açar açmaz en alttaki bilgi formuna hizalıyor; hero (webinar başlığı, geri
+      sayım, "WhatsApp Grubuna Katıl") hiç görünmüyor. Reklamdan gelen ziyaretçide
+      çapayı sayfa çizilmeden ÖNCE düşürüyoruz — böylece tarayıcının kaydıracağı
+      bir hedef kalmıyor. Menüdeki "Bilgi Al" ve elle paylaşılan /#bilgi linkleri
+      etkilenmez (onlarda fbclid/utm yok ve referrer Meta değil).
+    -->
+    <script>
+      (function () {
+        if (window.location.hash !== "#bilgi") return;
+        var query = window.location.search;
+        var fromAd =
+          /[?&](fbclid|utm_)/i.test(query) ||
+          /^https?:\/\/([^/]*\.)?(facebook|instagram|fb)\.(com|me)\//i.test(document.referrer || "");
+        if (!fromAd) return;
+        window.history.replaceState(null, "", window.location.pathname + query);
+        // Bazı tarayıcılar çapa konumunu gezinme başında not ediyor; garanti olsun.
+        window.addEventListener("DOMContentLoaded", function () {
+          window.scrollTo(0, 0);
+        });
+      })();
+    </script>
+
+    <title>Ekim 2026 Avustralya'da Doktorluk Webinar Takvimi | AUSCAMP</title>
+    <meta
+      name="description"
+      content="Avustralya'da doktorluk kariyeri düşünen hekimler için AUSCAMP'in Ekim 2026 ücretsiz webinar takvimi. CV ve iş başvuruları, uzmanlık denkliği başvuru belgeleri, radyoloji konu anlatımı ve MCQ soru çözümü. Duyuru topluluğuna katıl."
+    />
+
+    <!-- Open Graph / social -->
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:site_name" content="AUSCAMP" />
+    <meta property="og:title" content="Ekim 2026 Avustralya'da Doktorluk Webinar Takvimi" />
+    <meta
+      property="og:description"
+      content="Avustralya'da doktorluk düşünen hekimler için ücretsiz webinar takvimi. Herkese açık, ücretsiz. AUSCAMP."
+    />
+    <meta property="og:image" content="https://webinar.auscamp.com.tr/og.jpg" />
+    <meta property="og:url" content="https://webinar.auscamp.com.tr/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Ekim 2026 Avustralya'da Doktorluk Webinar Takvimi" />
+    <meta
+      name="twitter:description"
+      content="Avustralya'da doktorluk düşünen hekimler için ücretsiz webinar takvimi. AUSCAMP."
+    />
+    <meta name="twitter:image" content="https://webinar.auscamp.com.tr/og.jpg" />
+
+    <!-- Type system: Plus Jakarta Sans (UI/body) + Fraunces (aspirational serif accent) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Fraunces:ital,opsz,wght@1,9..144,400;1,9..144,500&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Meta Pixel Code -->
+    <script>
+      !(function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+          n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = "2.0";
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js");
+      fbq("init", "1489409728980211");
+      fbq("track", "PageView");
+    </script>
+    <!-- End Meta Pixel Code -->
+  </head>
+  <body>
+    <!-- Meta Pixel <noscript> fallback (must live in body per HTML spec) -->
+    <noscript>
+      <img
+        height="1"
+        width="1"
+        style="display: none"
+        alt=""
+        src="https://www.facebook.com/tr?id=1489409728980211&ev=PageView&noscript=1"
+      />
+    </noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

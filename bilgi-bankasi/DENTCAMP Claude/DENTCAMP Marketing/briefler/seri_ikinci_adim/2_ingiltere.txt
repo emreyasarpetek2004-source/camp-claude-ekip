@@ -1,0 +1,40 @@
+Selam, "Sürecin İkinci Adımı" serisinin ikinci postu (#2/4), konu İngiltere. Seri, "Sürecin İlk Adımı" serisinin devamıdır ve dört ülkede ilk adımdan sonra gelen aşamayı anlatır. Kapak ve iç sayfa düzeni ilk seriyle aynı kalır.
+
+🎨 ŞABLON: T3a Süreç / Sınav şablonunu kullan (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler). DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: İNGİLTERE
+🎯 KİTLE: Diş hekimi
+Genel tasarım kararları size ait.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: İngiltere'de Diş Hekimliği Sürecinin İkinci Adımı
+ALT BAŞLIK: ORE Part 1 Nedir
+(Görsel: sol kenardan dalgalı İngiltere bayrağı)
+
+SAYFA 2 - ORE Part 1 Nedir:
+• ORE Part 1, GDC uygunluk başvurusundan sonra girilen ilk sınav bölümüdür.
+• Sınav, klinik bilginin uygulamaya aktarılmasını ölçer.
+• Kapsam diş hekimliği bilimleri, klinik diş hekimliği, hukuk, etik ve sağlık-güvenlik alanlarını içerir.
+• İngilizce yeterliliği bu sınavdan önce belgelenir, IELTS Academic'te genel 7,0 ile her bölümde en az 6,5 istenir.
+Kapsamı baştan bildiğinizde hukuk ve etik konularını da hazırlık takviminize eklersiniz.
+Kaynak: gdc-uk.org
+
+SAYFA 3 - Sınavın Yapısı:
+• Sınav Paper A ve Paper B olmak üzere iki oturumdan oluşur.
+• Her oturum üç saat sürer ve bilgisayar üzerinde, yüz yüze yapılır.
+• Sorular tek en iyi cevap (SBA) ve eşleştirmeli (EMQ) biçimindedir.
+• Sınav yılda dört kez, yalnız Londra'daki merkezlerde yapılır.
+• Sınav ücreti 485 sterlindir.
+Başvurunuzu tarihler açıklanmadan önce hazır tuttuğunuzda ilk uygun oturuma girebilirsiniz.
+Kaynak: gdc-uk.org
+
+SAYFA 4 - Sonuç, Deneme Hakkı ve Süre:
+• Sonuçlar yaklaşık 30 iş günü içinde e-postayla bildirilir.
+• İki oturumun yüzdelik puanı ve genel sonuç birlikte paylaşılır.
+• Part 1 için dört deneme hakkı tanınır.
+• İlk Part 1 denemesiyle beş yıllık süre başlar ve Part 2 bu süre içinde tamamlanır.
+Part 1'e hazırlığınız tamamlandığında girdiğinizde beş yıllık sürenin büyük kısmını Part 2 hazırlığına ayırabilirsiniz.
+Kaynak: gdc-uk.org
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

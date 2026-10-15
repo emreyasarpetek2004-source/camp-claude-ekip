@@ -1,0 +1,39 @@
+Selam, "Sürecin İlk Adımı" serisinin ikinci postu (#2/4), konu Almanya. Aşama adları resmî Almanca terimleriyle yazıldı, Türkçe karşılıkları parantez içinde verildi.
+
+🎨 ŞABLON: T3a Süreç / Sınav şablonunu kullan (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler). DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: ALMANYA
+🎯 KİTLE: Diş hekimi
+Genel tasarım kararları size ait.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: Almanya'da Diş Hekimliği Sürecinin İlk Adımı
+ALT BAŞLIK: Denklik Başvurusu Nedir
+(Görsel: sol kenardan dalgalı Almanya bayrağı)
+
+SAYFA 2 - Süreç Eyaletle Başlar:
+• Başvuru, çalışmayı planladığınız eyaletin Approbation (tam ve süresiz mesleki lisans) makamına yapılır.
+• Denklik değerlendirmesi eyalet bazında yürütülür, ülke genelinde tek merkez bulunmaz.
+• Bu yüzden sürecin ilk kararı, hangi eyalete başvurulacağının belirlenmesidir.
+• Belgeler tamamlandıktan sonra makam en geç dört ay içinde kararını bildirir.
+Eyaleti baştan seçtiğinizde başvuru dosyanızı tek makamın kuralına göre hazırlarsınız.
+Kaynak: ZHG § 2, anerkennung-in-deutschland.de
+
+SAYFA 3 - Gleichwertigkeitsprüfung (Eğitim Denkliği İncelemesi):
+• Eğitiminiz Alman diş hekimliği eğitimiyle karşılaştırılır ve esaslı fark aranır.
+• Esaslı fark bulunmazsa Approbation doğrudan verilir.
+• Mesleki tecrübe ve tanınmış sürekli eğitim, tespit edilen farkları kapatır.
+• Açık kalan farkta dosya Kenntnisprüfung (bilgi sınavı) aşamasına yönlendirilir.
+Eğitim dosyanızı eksiksiz sunduğunuzda inceleme, sınav aşamasına gerek kalmadan sonuçlanabilir.
+Kaynak: ZHG § 2, anerkennung-in-deutschland.de
+
+SAYFA 4 - İncelemenin Üç Sonucu:
+• Fark yoksa Approbation verilir ve Alman mezunuyla aynı haklar tanınır.
+• Fark varsa Kenntnisprüfung'a girilir; sınav yazılı, sözlü ve pratik bölümlerden oluşur.
+• Koşullar tamamlanmadan Berufserlaubnis (geçici çalışma izni) ile çalışılabilir, toplam süre azami iki yıldır.
+• Berufserlaubnis, geçilmiş Fachsprachenprüfung (mesleki dil sınavı) şartına bağlıdır.
+Üç sonucu baştan bildiğinizde karar elinize geçtiği anda bir sonraki adıma geçersiniz.
+Kaynak: ZHG § 12, ZApprO §§ 104-118
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

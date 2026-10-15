@@ -1,0 +1,39 @@
+Selam, "Sürecin İlk Adımı" serisinin dördüncü postu (#4/4), konu İngiltere. Sürecin ilk adımı yol seçimi ve GDC'ye sunulan uygunluk dosyasını kapsar.
+
+🎨 ŞABLON: T3a Süreç / Sınav şablonunu kullan (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler). DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: İNGİLTERE
+🎯 KİTLE: Diş hekimi
+Genel tasarım kararları size ait.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: İngiltere'de Diş Hekimliği Sürecinin İlk Adımı
+ALT BAŞLIK: GDC Uygunluk Başvurusu Nedir
+(Görsel: sol kenardan dalgalı İngiltere bayrağı)
+
+SAYFA 2 - Yol Seçimi ve Başvuru:
+• Süreç, GDC'ye (İngiltere diş hekimliği sicili) yapılan uygunluk başvurusuyla başlar.
+• Sınav yolu ORE veya LDS olarak belirlenir, GDC iki yolu eşdeğer kabul eder.
+• ORE iki bölümden, LDS üç bölümden oluşur.
+• LDS yolunda şartlar ve başvuru RCS England üzerinden yürütülür.
+Yolu baştan seçtiğinizde dosyanızı tek kurumun kuralına göre hazırlarsınız.
+Kaynak: gdc-uk.org, rcseng.ac.uk
+
+SAYFA 3 - Belge Dosyası ve 1.600 Klinik Saat:
+• Diploma ve mezuniyet belgelerinin yanında klinik deneyim kaydı istenir.
+• Klinik deneyim şartı 1.600 saat olarak belirlenmiştir.
+• Bu saat Türkiye'deki çalışma döneminde birikir ve ilk günden kayıt altına alınır.
+• İngilizce yeterliliği ORE Part 1'den önce aranır, IELTS Academic'te genel 7,0 ile her bölümde en az 6,5 istenir.
+Saatlerinizi çalışırken kayıt altına aldığınızda başvurunuz belge tamamlama beklemeden ilerler.
+Kaynak: gdc-uk.org
+
+SAYFA 4 - Başvurudan Sonra İşleyen Süreler:
+• Her sınav bölümü için dört deneme hakkı tanınır.
+• İlk Part 1 denemesinden itibaren beş yıllık süre sınırı işler.
+• Sınav kontenjanları talebin altında kalır ve açılan yerler kısa sürede dolar.
+• Bu nedenle Part 1'e klinik saat ve hazırlık tamamlanmadan girilmez.
+Beş yıllık süreyi hazırlığınız tamamlandıktan sonra başlattığınızda dört deneme hakkınızı rahat kullanırsınız.
+Kaynak: gdc-uk.org
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38

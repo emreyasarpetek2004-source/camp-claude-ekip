@@ -1,0 +1,5 @@
+gonder.sh
+.DS_Store
+__pycache__/
+.env
+.asana_token

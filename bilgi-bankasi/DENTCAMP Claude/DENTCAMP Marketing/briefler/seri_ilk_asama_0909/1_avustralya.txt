@@ -1,0 +1,39 @@
+Selam, "Sürecin İlk Adımı" serisinin birinci postu (#1/4), konu Avustralya. Seri, dört ülkede sürecin hangi adımla başladığını tek tek anlatır.
+
+🎨 ŞABLON: T3a Süreç / Sınav şablonunu kullan (tek ülke, petrol yeşili zemin, numaralı turkuaz daireler). DENTCAMP paleti: petrol yeşili #005b52 + turkuaz #00d9bd + mint #d6f2ed
+🌍 ÜLKE: AVUSTRALYA
+🎯 KİTLE: Diş hekimi
+Genel tasarım kararları size ait.
+
+SAYFA 1 - KAPAK:
+BAŞLIK: Avustralya'da Diş Hekimliği Sürecinin İlk Adımı
+ALT BAŞLIK: Initial Assessment Nedir
+(Görsel: sol kenardan dalgalı Avustralya bayrağı)
+
+SAYFA 2 - Initial Assessment (Belge Değerlendirmesi) Nedir:
+• Süreç, ADC'nin (Australian Dental Council) belge değerlendirmesiyle başlar.
+• Diplomanız Avustralya diş hekimliği eğitimiyle karşılaştırılarak incelenir.
+• Olumlu sonuç, ADC sınavlarına girme hakkı verir.
+• Bu adımda İngilizce sınav sonucu istenmez.
+Sürecin hangi belgeyle başladığını bildiğinizde hazırlığınızı diploma dosyanızdan başlatırsınız.
+Kaynak: adc.org.au
+
+SAYFA 3 - Belge Dosyası, Ücret ve Süre:
+• Diploma, akademik transkript, pasaport ve vesikalık fotoğraf sunulur.
+• İngilizce olmayan belgelerin tamamı için resmî çeviri istenir.
+• Başvuru ücreti 647 AUD olarak ödenir.
+• Sonuçlanma süresi yaklaşık sekiz haftadır.
+Belgelerinizi çevirileriyle birlikte tamamladığınızda değerlendirme süresi sınav takviminizi geciktirmez.
+Kaynak: adc.org.au
+
+SAYFA 4 - Yedi Yıllık Geçerlilik:
+• Olumlu sonuç yedi yıl geçerli sayılır.
+• Yazılı ve pratik sınav takvimi bu yedi yıl içinde planlanır.
+• Süre dolmadan yenilenmezse süreç baştan başlar.
+• Yenilenmeyen değerlendirmede alınmış sınav sonuçları da geçersiz olur.
+Yedi yıllık pencereyi baştan hesaba kattığınızda iki sınavı da aynı geçerlilik dönemi içinde tamamlarsınız.
+Kaynak: adc.org.au
+
+SON SAYFA - CTA:
+Diş Hekimliği Kariyerinizi Beraber Yurt Dışına Taşıyalım
+🌐 dentcamp.com.tr   📲 +90 552 000 78 38
